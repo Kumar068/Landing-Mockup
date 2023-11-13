@@ -1,7 +1,8 @@
 # Landing-Mockup
-Sandita Digital Technology Private Limited - Assessment
-
 ## Key Features and Objectives
+
+![Work1](https://github.com/Kumar068/Landing-Mockup/assets/98702588/9888f47b-9b6c-44f0-9cc0-2c64e2f81073)
+
 
 ### User-Centric Design
 
